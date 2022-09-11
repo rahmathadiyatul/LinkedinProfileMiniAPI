@@ -30,9 +30,21 @@ https://docs.google.com/spreadsheets/d/1XxAsUpdpCe2cthHIAGwDjsNdP6vrW9m2/edit#gi
 ![image](https://user-images.githubusercontent.com/110959958/189498775-6ec24c83-623d-4b09-9512-f6dcc1c2e4d7.png)
 
 # 4. API untuk menampilkan semua data berdasarkan filter skill	
-# Input halaman
-
+# Input filter skill
+![image](https://user-images.githubusercontent.com/110959958/189544682-05c895c5-c85c-4331-b420-d3c876cf0c3d.png)
+# Response
+![image](https://user-images.githubusercontent.com/110959958/189544702-9f41197a-f3f4-459d-80e0-a5b4ce8ccb70.png)
 
 # 5. API untuk mengedit / update data per orang	
-# 6. API untuk delete data per orang	
-# 7. Push project kedalam git masing-masing, access public.	
+# Data sebelumnya
+![image](https://user-images.githubusercontent.com/110959958/189544772-7832ef6d-db98-476e-9155-fdfa5b216935.png)
+# Input data baru
+![image](https://user-images.githubusercontent.com/110959958/189544801-e36bd084-ef11-49c8-9fd6-37ee7f15e464.png)
+# Result
+![image](https://user-images.githubusercontent.com/110959958/189544844-ee3eca3d-7d54-4cba-a6c5-d8a324b5d64b.png)
+
+# 6. API untuk delete data per orang
+# Input ID yang ingin didelete
+![image](https://user-images.githubusercontent.com/110959958/189544887-af35bda6-57ba-4efc-9bc7-9bc38752aab6.png)
+# Result data dengan ID = 4 sudah terhapus
+![image](https://user-images.githubusercontent.com/110959958/189544904-22520510-c864-4470-9ce4-eaa611ec18b1.png)
